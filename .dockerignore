@@ -1,0 +1,19 @@
+# GIT
+.git
+.gitignore
+
+# VENV
+.venv/
+venv/
+
+# DOCKER
+.docker
+
+
+
+# Python
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
+.env/
